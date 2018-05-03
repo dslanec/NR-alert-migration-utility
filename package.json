@@ -1,0 +1,15 @@
+{
+  "name": "alert-management-cli",
+  "version": "0.0.1",
+  "description": "CLI utility for managing New Relic alerts",
+  "main": "app.js",
+  "author": "Don Slanec <dslanec@newrelic.com>",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.15.1",
+    "inquirer": "^5.2.0",
+    "mongoose": "^5.0.12",
+    "request": "^2.85.0",
+    "request-promise": "^4.2.2"
+  }
+}
